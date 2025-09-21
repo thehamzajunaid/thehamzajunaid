@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thehamzajunaid" alt="hamza-junaid" /> </p>
 
-- 🔭  I specialize in Software Development, Large Language Models (LLMs) and Microsoft Azure Cloud, with expertise in Python and JavaScript programming languages. I’m currently working with **Python**, **Machine Learning**, **AI**, and **Microsoft Azure Cloud**. My recent work includes designing solutions with Django, C#, deploying and maintaining infrastructure on Azure Cloud.
+- 🔭 I specialize in Software Development, Large Language Models (LLMs) and Microsoft Azure Cloud, with expertise in Python and JavaScript programming languages. I’m currently working with **Python**, **Machine Learning**, **AI**, and **Microsoft Azure Cloud**. My recent work includes designing solutions with Django, C#, deploying and maintaining infrastructure on Azure Cloud.
 
-- 🌱  I am passionate about advancing AI-driven automation and bridging the gap between AI and general public by the use of Cloud and Distributed Systems. I’m expanding my expertise in **Natural Language Processing**, **Large Language Models**, and **Data Science**. I’m involved in independent research on LLMs and enhancing AI-driven solutions which complements Cloud and Distributed systems for democratizing the use of AI for general public.
+- 🌱 I am passionate about advancing AI-driven automation and bridging the gap between AI and general public by the use of Cloud and Distributed Systems. I’m expanding my expertise in **Natural Language Processing**, **Large Language Models**, and **Data Science**. I’m involved in independent research on LLMs and enhancing AI-driven solutions which complements Cloud and Distributed systems for democratizing the use of AI for general public.
 
 - 👯 I’m looking to collaborate on **AI-driven projects**, **Advanced Machine Learning applications**, **Real-time AI Systems** by leveraging latest advancements in **Cloud Technologies** and **Distributed Systems** 
 
