@@ -20,5 +20,5 @@
   <a href="mailto:junaidhamza4@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
   <a href="https://github.com/thehamzajunaid"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/thehamzajunaid/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://thehamzajunaid.github.io/"><img src="https://img.icons8.com/?size=50&id=3dan8A9YrGfa&format=png&color=000000" alt="Portfolio"/></a>
+  <a href="https://thehamzajunaid.github.io/"><img src="https://img.icons8.com/?size=50&id=LoyAjcvVKv1K&format=png&color=000000" alt="Portfolio"/></a>
 </p>
